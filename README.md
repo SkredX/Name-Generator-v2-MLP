@@ -3,7 +3,7 @@
 This repository contains two versions of a character-level **name generator** built using a **trigram context** and a **Multi-Layer Perceptron (MLP)**:
 
 - **Simple version (v2)** – clean baseline implementation  
-- **Modified version (v3)** – improved / extended implementation
+- **Modified version (v2.1)** – improved / extended implementation
 
 Both versions work the same way at a high level:
 
@@ -30,7 +30,7 @@ All you need to do is:
 │   ├── name-generator-using-mlp.py      # Python script version
 │   └── names.txt                        # Dataset: one name per line
 │
-└── Modified-version-v3/
-    ├── name-generator-v3.ipynb          # Jupyter Notebook version (enhanced)
-    ├── name-generator-v3.py             # Python script version (enhanced)
+└── Modified-version-v2.1/
+    ├── name-generator-v2.1.ipynb          # Jupyter Notebook version (enhanced)
+    ├── name-generator-v2.1.py             # Python script version (enhanced)
     └── names.txt                        # Dataset: one name per line
