@@ -7,7 +7,7 @@ This repository contains two versions of a character-level **name generator** bu
 
 Both versions work the same way at a high level:
 
-1. Load a list of names from a text file  
+1. Load a list of names from a text file (names.txt)  
 2. Build a trigram-based dataset  
 3. Train an MLP to predict the next character  
 4. Sample new, “fake” names from the trained model  
